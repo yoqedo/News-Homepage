@@ -8,8 +8,6 @@ Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-
-## Welcome to this Repo! 👋
 I took this [Frontend Mentor](https://www.frontendmentor.io) challenge improve my coding skills.
 It helps me not to think to much how the Design looks like.
 Just pure Coding.
